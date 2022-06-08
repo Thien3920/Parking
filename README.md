@@ -1,8 +1,6 @@
 # Parking-Management
 ## Introduction
 Parking billing software uses license plate detection and facial recognition
-![Screenshot from 2022-06-05 16-33-31](https://user-images.githubusercontent.com/87056480/172044421-beafd81f-0a11-4ff5-9473-14951758c61d.png)
-### Video demo: 
 [here](https://user-images.githubusercontent.com/87056480/172690680-b265082f-240a-4bac-aaa1-fd3597ac64de.mp4)
 ## Install
 ### **MongoDB**
@@ -19,4 +17,4 @@ pip install -r requirements.txt  # install
 ```
 python Login.py
 ```
-## Demo
+
