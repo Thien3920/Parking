@@ -1,4 +1,6 @@
-
+# Author: LE VAN THIEN
+# Email: ngocthien3920@gmail.com
+# Phone: 0329615785
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from bson.objectid import ObjectId
