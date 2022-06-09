@@ -1,5 +1,8 @@
 
-# from detect_plate import predict
+# Author: LE VAN THIEN
+# Email: ngocthien3920@gmail.com
+# Phone: 0329615785
+
 from plate.alpr import ALPR
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import QImage
