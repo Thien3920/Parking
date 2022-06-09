@@ -29,7 +29,7 @@ $ git clone git@github.com:Thien3920/Parking-Management.git  # clone
 $ cd Parking-Management
 $ conda create --name parking_env python=3.6
 $conda activate parking_env
-% pip install -r requirements.txt  # install
+$ pip install -r requirements.txt  # install
 ```
 
 ## Usage
