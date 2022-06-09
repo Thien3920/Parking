@@ -1,3 +1,7 @@
+# Author: LE VAN THIEN
+# Email: ngocthien3920@gmail.com
+# Phone: 0329615785
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QFileDialog
 from PyQt5.QtGui import QImage
