@@ -1,3 +1,7 @@
+# Author: LE VAN THIEN
+# Email: ngocthien3920@gmail.com
+# Phone: 0329615785
+
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 
