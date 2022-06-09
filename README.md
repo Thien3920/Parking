@@ -25,9 +25,11 @@ Click [here](https://www.mongodb.com) to install MongoDB
 ### **Parking-Management**
 Clone repo and install requirements.txt in a Python=3.6 environment.
 ```
-git clone git@github.com:Thien3920/Parking-Management.git  # clone
-cd Parking-Management
-pip install -r requirements.txt  # install
+$ git clone git@github.com:Thien3920/Parking-Management.git  # clone
+$ cd Parking-Management
+$ conda create --name parking_env python=3.6
+$conda activate parking_env
+% pip install -r requirements.txt  # install
 ```
 
 ## Usage
