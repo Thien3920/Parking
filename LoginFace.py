@@ -1,4 +1,6 @@
-# from re import I
+# Author: LE VAN THIEN
+# Email: ngocthien3920@gmail.com
+# Phone: 0329615785
 
 from PyQt5.QtWidgets import QDesktopWidget
 from PyQt5 import QtCore, QtGui, QtWidgets
